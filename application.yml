@@ -11,5 +11,5 @@ eureka:
     instance-id: provider-second
     prefer-ip-address: true
 
-name: mytest——change-once
+name: mytest——change-twice
 age: 24
